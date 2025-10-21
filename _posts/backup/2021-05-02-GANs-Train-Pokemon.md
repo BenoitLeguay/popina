@@ -15,7 +15,7 @@ GANs are a framework for teaching a DL model to capture the training data’s di
 <br />
 
 {::nomarkdown}
-[<svg src="{{ site.baseurl }}/images/backup/gans/gan-schema.svg" alt="gan-schema.svg"/>]({{ site.baseurl }}/)
+<svg src="{{ site.baseurl }}/images/backup/gans/gan-schema.svg" alt="gan-schema.svg"/>
 {:/}
 
 <br />
