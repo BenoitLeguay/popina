@@ -15,6 +15,7 @@ GANs are a framework for teaching a DL model to capture the training data’s di
 <br />
 
 ![gan-schema.svg]({{site.baseurl | prepend: site.url}}images/backup/gans/gan-schema.svg)
+[<img src="{{ site.baseurl }}/images/404.jpg" alt="Constructocat by https://github.com/jasoncostello" style="width: 400px;"/>]({{ site.baseurl }}/)
 
 <br />
 
