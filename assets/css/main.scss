@@ -1,0 +1,50 @@
+---
+---
+
+body {
+    background-color: #ffffff;
+    color: #000000;
+    font-family: "Times New Roman", Times, serif;
+    line-height: 1.5;
+    margin: 20px 0;
+}
+
+.container {
+    max-width: 650px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: normal;
+}
+
+header {
+    text-align: center;
+}
+
+header h1 {
+    font-size: 2em;
+    margin: 0.67em 0;
+}
+
+a {
+    color: #0000ff;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: #800080;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background-color: #000000;
+    margin: 2em 0;
+}
+
+footer {
+    text-align: center;
+    font-size: 0.9em;
+}
