@@ -34,7 +34,7 @@ We will compare 3 GANs versions:
 
 The Pokemon sprites dataset has advantages, uniform low resolution images with a wide diversity. 
 
-| ![gan-dataset.png]({{site.baseurl}}/images/gans/gan-dataset.png) |
+| ![gan-dataset.png]({{site.baseurl | prepend: site.url}}/images/backup/images/gans/gan-dataset.png) |
 | :----------------------------------------------------------: |
 |                       *dataset batch*                        |
 
